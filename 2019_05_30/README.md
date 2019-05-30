@@ -6,10 +6,10 @@ En la clase de hoy se ejecutarán los programas que se mostraron en los videos. 
 gcc nombre.c -o nombre
 
 ejecutar: ./nombre
+```
 los archivos generados el dia de hoy fueron:
 * [`entero.h`](entero.h)
 * [`principal.c`](principal.c)
-```
 
 
 ## cpu.c
