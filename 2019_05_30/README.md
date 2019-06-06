@@ -10,4 +10,3 @@ ejecutar: ./nombre
 los archivos generados el dia de hoy fueron:
 * [`entero.h`](entero.h)
 * [`principal.c`](principal.c)
-
