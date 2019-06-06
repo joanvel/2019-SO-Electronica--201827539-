@@ -11,12 +11,3 @@ los archivos generados el dia de hoy fueron:
 * [`entero.h`](entero.h)
 * [`principal.c`](principal.c)
 
-
-## cpu.c
-
-## mem.c
-
-## threads.c
-
-## io.c
-
